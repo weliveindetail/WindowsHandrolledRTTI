@@ -1,0 +1,5 @@
+*.VC.VC.opendb
+*.VC.db
+/.vs/
+/Debug/
+/x64/
